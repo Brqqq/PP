@@ -1,0 +1,9 @@
+c:\users\burak\documents\visual studio 2017\Projects\PP\PP\bin\Debug\PP.exe.config
+c:\users\burak\documents\visual studio 2017\Projects\PP\PP\bin\Debug\PP.exe
+c:\users\burak\documents\visual studio 2017\Projects\PP\PP\bin\Debug\PP.pdb
+c:\users\burak\documents\visual studio 2017\Projects\PP\PP\obj\Debug\PP.csprojResolveAssemblyReference.cache
+c:\users\burak\documents\visual studio 2017\Projects\PP\PP\obj\Debug\PP.Form1.resources
+c:\users\burak\documents\visual studio 2017\Projects\PP\PP\obj\Debug\PP.Properties.Resources.resources
+c:\users\burak\documents\visual studio 2017\Projects\PP\PP\obj\Debug\PP.csproj.GenerateResource.Cache
+c:\users\burak\documents\visual studio 2017\Projects\PP\PP\obj\Debug\PP.exe
+c:\users\burak\documents\visual studio 2017\Projects\PP\PP\obj\Debug\PP.pdb
